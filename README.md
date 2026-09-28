@@ -1,6 +1,5 @@
 Personal Expense Tracker
 
-Show Image Show Image Show Image
 
 A simple, interactive expense management web app built with Python, Streamlit, SQLite, and Pandas. Add, edit, filter, chart, and export personal expenses, all through a browser-based UI, with no separate database setup required.
 
